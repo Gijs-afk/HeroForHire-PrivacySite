@@ -1,0 +1,3 @@
+# GitHub Pages runs Jekyll by default. This keeps the owner's notes off the public site.
+exclude:
+  - README.md
